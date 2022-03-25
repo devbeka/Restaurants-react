@@ -6,21 +6,21 @@ import User from './User'
 import './styles.scss'
 
 const Header = () => {
-	return (
-		<header className='header'>
-			<div className='header__container'>
-				<a className='logo' href=''>
-					Constructor
-				</a>
-				<div className='header__nav'>
-					<Nav />
-				</div>
-				<Search />
-				<City />
-				<User />
-			</div>
-		</header>
-	)
+  return (
+    <header className="header">
+      <div className="header__container">
+        <a className="logo" href="">
+          Constructor
+        </a>
+        <div className="header__nav">
+          <Nav />
+        </div>
+        <Search />
+        <City />
+        <User />
+      </div>
+    </header>
+  )
 }
 
 export default Header

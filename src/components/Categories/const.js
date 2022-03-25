@@ -7,34 +7,34 @@ import vegenIcon from './icons/vegen.svg'
 import kidFoodIcon from './icons/kid-food.svg'
 
 const categoryItems = [
- {
-  type: 'Burgers',
-  icon: burgersIcon,
- },
- {
-  type: 'Sushi',
-  icon: sushiIcon,
- },
- {
-  type: 'Pizza',
-  icon: pizzaIcon,
- },
- {
-  type: 'Italian',
-  icon: italianIcon,
- },
- {
-  type: 'Steaks',
-  icon: steaksIcon,
- },
- {
-  type: 'Vegen',
-  icon: vegenIcon,
- },
- {
-  type: 'Kid Food',
-  icon: kidFoodIcon,
- },
+  {
+    type: 'Burgers',
+    icon: burgersIcon,
+  },
+  {
+    type: 'Sushi',
+    icon: sushiIcon,
+  },
+  {
+    type: 'Pizza',
+    icon: pizzaIcon,
+  },
+  {
+    type: 'Italian',
+    icon: italianIcon,
+  },
+  {
+    type: 'Steaks',
+    icon: steaksIcon,
+  },
+  {
+    type: 'Vegen',
+    icon: vegenIcon,
+  },
+  {
+    type: 'Kid Food',
+    icon: kidFoodIcon,
+  },
 ]
 
 export default categoryItems
